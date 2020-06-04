@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
 """
-    Author: Yi Cao
+    Author: Y C
     Time  : 2020/6/4 9:56
     File  : FirstWin.py
 """

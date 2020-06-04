@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
 """
-    Author: Yi Cao
+    Author: Y C
     Time  : 2020/6/4 10:01
     File  : qt101_testPyQt.py
 """
